@@ -15,12 +15,13 @@ Welcome and thank you for coming to the **UH SASE Guitar Pedal Soldering Worksho
 | 05 | [Pedal assembly](guide/05-assembly-guide.md) | Guided PCB assembly |
 | 06 | [Etching activity](guide/06-etching.md) | Customize your pedal with Po the Panda |
 
-## 🔧 PCB design files + presentation
+## 🔧 PCB files used + presentation
 
 - [KiCad schematic](files/delay_pedal_teensy.kicad_sch) — electronic connections.
 - [KiCad PCB layout](files/delay_pedal_teensy.kicad_pcb) — physical board layout and copper routing.
 - [Gerber manufacturing ZIP](files/gerbers_delay_pedal_teensy.zip) — PCB fabrication outputs.
-- [Workshop presentation (PDF)](presentation/Guitar-Pedal-Soldering-Workshop.pdf) — reference slides
+  
+- [Workshop presentation (PDF)](presentation/Guitar-Pedal-Soldering-Workshop.pdf) — reference slides.
 
 ## 🛠 Workshop flow
 
