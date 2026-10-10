@@ -1,0 +1,9 @@
+# KiCad auto-generated, local and backup files
+*-backups/
+*.lck
+*-cache.lib
+*.kicad_prl
+*.bak
+*~
+.DS_Store
+Thumbs.db
