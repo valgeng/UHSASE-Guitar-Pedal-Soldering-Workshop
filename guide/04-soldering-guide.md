@@ -14,7 +14,7 @@ Soldering joins metal surfaces by melting a filler metal called **solder**. On a
 - Keep the work area clear; never solder a powered circuit.
 - Wash your hands after handling solder, especially if it contains lead.
 
-## How to solder a through-hole component
+## How to Solder
 
 1. Set the soldering device to about 375 degrees C.
 2. Use your dominant hand to hold the soldering machine.
