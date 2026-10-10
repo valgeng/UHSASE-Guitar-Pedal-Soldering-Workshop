@@ -2,17 +2,14 @@
 
 [← Workshop home](../README.md) · [← Assembly](05-assembly-guide.md)
 
-## Make your pedal your own
+## What is Etching?
 
-The presentation includes an etching challenge featuring **SASE's Po the Panda**. Participants can practice creating a decorative pattern and try reproducing the panda design.
+Etching is just the process of removing material from a surface to create a design or pattern.
 
-### Suggested challenge
 
-1. Look at the design reference in the [workshop slides](../resources/Guitar-Pedal-Soldering-Workshop.pdf) (page 8).
-2. Sketch your pattern before working on the prepared material.
-3. Follow the instructor's demonstrated and approved method for applying the design.
-4. Show your finished work to the organizers.
+## Challenge
 
-> **Important:** The presentation does not specify whether this is a metal enclosure, copper surface, or another material, or which etching method will be used. Do **not** improvise chemical solutions or steps. Organizers must provide the exact safe process, PPE, ventilation, and disposal instructions before the activity.
+Try etching SASE's mascot, Po the Panda! Winning team will get to keep their guitar pedal. 
 
-The presentation proposes a design competition with a guitar pedal prize; the organizers should confirm the prize and rules before announcing them.
+<img width="442" height="649" alt="Guitar Pedal Soldering Workshop" src="https://github.com/user-attachments/assets/cd5ae57c-d397-46d5-8cfe-6ab828da7718" />
+
