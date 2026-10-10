@@ -9,9 +9,9 @@ Welcome and thank you for coming to the **UH SASE Guitar Pedal Soldering Worksho
 | Step | Guide | What you'll learn |
 | --- | --- | --- |
 | 01 | [Introduction](guide/01-introduction.md) | What a guitar pedal does and what delay sounds like |
-| 02 | [Pedal controls](guide/02-pedal-controls.md) | Time, feedback, + volume |
+| 02 | [Pedal controls](guide/02-pedal-controls.md) | Time, feedback, volume |
 | 03 | [How the pedal works](guide/03-how-it-works.md) | How a signal works to create altered sound |
-| 04 | [Soldering tutorial](guide/04-soldering-guide.md) | Safety, soldering steps + video |
+| 04 | [Soldering tutorial](guide/04-soldering-guide.md) | Safety, soldering steps, and demonstration video |
 | 05 | [Pedal assembly](guide/05-assembly-guide.md) | Guided PCB assembly |
 | 06 | [Etching activity](guide/06-etching.md) | Customize your pedal with Po the Panda |
 
