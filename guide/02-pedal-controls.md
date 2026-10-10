@@ -10,6 +10,3 @@ Our project focuses on **TIME**, **FEEDBACK**, and **VOLUME**.
 | **Feedback** | How much delayed sound is fed back into the delay | More feedback generally produces more audible repeats |
 | **Volume** | The output level, depending on the implemented circuit and firmware | Louder or quieter output |
 
-**Note:** Feedback does not literally choose an exact repeat count. Volume could control overall output or the wet (delayed) signal depending on the final implementation; our actual firmware behavior still needs to be confirmed.
-
-**Try it:** Keep time fixed and increase feedback. Describe what changes about the echoes.
