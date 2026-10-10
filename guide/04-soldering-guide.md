@@ -23,8 +23,6 @@ Soldering joins metal surfaces by melting a filler metal called **solder**. On a
 
 ## 🎥 Soldering video demonstration
 
-[Watch the soldering demonstration](VIDEO_URL_HERE)
-
 
 ## Practice activity
 
