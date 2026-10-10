@@ -15,7 +15,7 @@ Welcome and thank you for coming to the **UH SASE Guitar Pedal Soldering Worksho
 | 05 | [Pedal assembly](guide/05-assembly-guide.md) | Guided PCB assembly |
 | 06 | [Etching activity](guide/06-etching.md) | Customize your pedal with Po the Panda |
 
-- [Workshop presentation (PDF)](presentation/Guitar-Pedal-Soldering-Workshop.pdf) — reference slides.
+[Workshop presentation (PDF)](presentation/Guitar-Pedal-Soldering-Workshop.pdf) — reference slides.
 
 ## 🔧 PCB files used 
 
