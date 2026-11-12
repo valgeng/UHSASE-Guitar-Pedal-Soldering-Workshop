@@ -1,4 +1,4 @@
-# 04 — Soldering tutorial
+# 04 — Soldering tutorial/What we are soldering
 
 [← Workshop home](../README.md) · [← How it works](03-how-it-works.md) · [Next: Assembly →](05-assembly-guide.md)
 
@@ -24,6 +24,19 @@ Soldering joins metal surfaces by melting a filler metal called **solder**. On a
 ## 🎥 Soldering video demonstration
 
 
+
+
+
+
+
 ## Practice activity
 
 Try soldering on the with the LEDs before working on the actual pedal. 
+
+## Parts we are soldering 
+
+We will be soldering 
+1. x2 female headers
+2. wires
+
+ 
